@@ -1,53 +1,8 @@
-.lifestyle {
-  margin-left: 315px;
-  margin-top: 71px;
+.header-text{
   color: #7D7D7D;
+  margin-left: 100px;
 }
-.lifestyle:hover {
-    margin-left: 315px;
-    margin-top: 71px;
-    color: #03A9F4;
-    cursor: pointer;
-  }
-
-
-.photodiary {
-  padding-left: 99px;
-  margin-top: 71px;
-  color: #7D7D7D;
+.header-text:hover{
+  color: #03A9F4;
+  cursor: pointer;
 }
-.photodiary:hover {
-    padding-left: 99px;
-    margin-top: 71px;
-    color: #03A9F4;
-    cursor: pointer;
-  }
-
-
-.musig {
-    margin-left: 100px;
-    margin-top: 71px;
-    color: #7D7D7D;
-  }
-  .musig:hover {
-    margin-left: 100px;
-    margin-top: 71px;
-    color: #03A9F4;
-    cursor: pointer;
-  }
-
-
-  .travel {
-    margin-left:100px ;
-    margin-top: 71px;
-    margin-right: 330px;
-    color: #7D7D7D;
-  }
-  .travel:hover {
-    margin-left:100px ;
-    margin-top: 71px;
-    margin-right: 330px;
-    color: #03A9F4;
-    cursor: pointer;
-  }
-  
