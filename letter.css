@@ -1,8 +1,48 @@
-.header-text{
-  color: #7D7D7D;
+.header-text {
+  color: #7d7d7d;
   margin-left: 100px;
 }
-.header-text:hover{
-  color: #03A9F4;
+.header-text:hover {
+  color: #03a9f4;
   cursor: pointer;
+}
+.header--lifestyle {
+  margin-left: 315px;
+}
+
+/* card */
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.card {
+  padding: 92px 65px 130px 148px;
+  max-width: 420px;
+}
+.card--meaning {
+  text-transform: uppercase;
+  width: 64px;
+  font-family: "Ubuntu";
+
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #b4ad9e;
+}
+.card--title {
+  font-family: "Playfair Display";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+}
+.card--text{
+  font-family: 'Playfair Display';
+
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;
+
 }
