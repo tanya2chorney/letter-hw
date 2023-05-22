@@ -1,0 +1,49 @@
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+.item {
+  font-size: 14px;
+  line-height: 19px;
+  color: #7d7d7d;
+  text-transform: uppercase;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.item:hover {
+  color: #03a9f4;
+}
+
+.header {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 90px;
+}
+
+.card {
+  width: 420px;
+  margin-left: 150px;
+}
+.card-subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  margin-top: 62px;
+}
+.card-title {
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-top: 32px;
+  font-weight: 400;}
+   
+  
+  .card-text {
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+    margin-top: 40px;
+  }
