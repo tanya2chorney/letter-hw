@@ -1,5 +1,5 @@
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .item {
@@ -22,10 +22,9 @@ body {
 
 .card {
   width: 420px;
-  margin-left: 150px;
 }
 .card-subtitle {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 16px;
@@ -38,12 +37,37 @@ body {
   line-height: 40px;
   color: #626262;
   margin-top: 32px;
-  font-weight: 400;}
-   
-  
-  .card-text {
-    font-size: 14px;
-    line-height: 19px;
-    color: #626262;
-    margin-top: 40px;
-  }
+  font-weight: 400;
+}
+
+.card-text {
+  font-size: 14px;
+  line-height: 19px;
+  color: #626262;
+  margin-top: 40px;
+}
+.cards-grit {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 910px;
+  margin: 0 auto;
+  justify-content: space-between;
+  row-gap: 130px;
+}
+.btn {
+  font: inherit;
+  background-color: transparent;
+  border: 2px solid #626262;
+  width: 165px;
+  height: 60px;
+  margin: 0 auto;
+  margin-top: 90px;
+  margin-bottom: 66px;
+  display: block;
+  cursor: pointer; 
+} 
+
+.btn:hover {
+  background-color: #626262;
+  color: #fff;
+}
